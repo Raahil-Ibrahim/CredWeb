@@ -1,1 +1,7 @@
-fastapiuvicornrequestspython-dotenvgoogle-cloud-aiplatformgoogle-api-python-clientbeautifulsoup4
+fastapi
+uvicorn
+requests
+python-dotenv
+google-cloud-aiplatform
+google-api-python-client
+beautifulsoup4
