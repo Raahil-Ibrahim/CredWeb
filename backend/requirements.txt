@@ -1,0 +1,1 @@
+fastapiuvicornrequestspython-dotenvgoogle-cloud-aiplatformgoogle-api-python-clientbeautifulsoup4
