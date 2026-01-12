@@ -1,6 +1,6 @@
 import os
 import vertexai
-from vertexai.generative_models import GenerativeModel, Tool, Grounding
+from vertexai.generative_models import GenerativeModel
 from googleapiclient.discovery import build
 import json
 
